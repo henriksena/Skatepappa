@@ -1,2 +1,1 @@
-# Skatepappa
-Skate eller dø
+
